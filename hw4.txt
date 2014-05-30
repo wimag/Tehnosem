@@ -1,0 +1,10 @@
+[user]
+	name = Wimag
+	email = gellmark@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = true
+[alias]
+	aa = add * 
+	cfiles = show --name-only 
+	cfile = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
