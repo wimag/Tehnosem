@@ -1,0 +1,24 @@
+Dear  Mr. Tolstikov
+
+User name is mark and i writing you from gemrak.
+
+Today's date is Tue Apr 29 12:29:43 MSK 2014 and I have started on laptop with x86_64 processor wich is working for 12.
+I think user installed GNU/Linux 3.2.0-49-generic at 2012-10-14 21:36:20, so it is about 561 days
+
+I could find this in /etc:
+
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=12.04
+DISTRIB_CODENAME=precise
+DISTRIB_DESCRIPTION="Ubuntu 12.04.2 LTS"
+NAME="Ubuntu"
+VERSION="12.04.2 LTS, Precise Pangolin"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu precise (12.04.2 LTS)"
+VERSION_ID="12.04"
+
+And this is good
+
+Best regards
+Your script

@@ -1,0 +1,16 @@
+Задание 1:
+wc -w $(ls -r| sed -n 3p)
+
+ls -r сортирует в обратном алфовитном порядке
+sen -n 3p - выбирает 3-. позицию
+wc -w считает слова
+
+Задание 2:
+killall -r regexp
+это простой способ
+если хочется через pid
+kill $(ps aux | grep 'chrom' | awk '{print $2}')
+
+
+Задание 3:
+ tar --append --file=trythis.tar tmp.txt
